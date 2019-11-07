@@ -1,0 +1,10 @@
+node_modules/
+dist/
+lib/
+docs_generated/
+coverage/
+*.log
+.DS_Store
+*.tgz
+.tsbuildinfo
+tsconfig.tsbuildinfo
