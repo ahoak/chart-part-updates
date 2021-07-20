@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "react": "16.9.0",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "@chart-parts/orchestrator": "^0.0.20",
     "@chart-parts/react": "^0.0.20",
     "@chart-parts/react-native-svg-renderer": "^0.0.20",
